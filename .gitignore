@@ -1,0 +1,8 @@
+# URLs
+urls.txt
+
+# Python
+venv/
+
+# PyCharm
+.idea/
